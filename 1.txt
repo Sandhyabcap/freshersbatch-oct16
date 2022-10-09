@@ -1,0 +1,2 @@
+Git is a popular version control system.
+( a version control system means a system that controls and tracks the changes of the project files.)
