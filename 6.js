@@ -1,1 +1,1 @@
-NO javascript
+console.log("this syntax is for printing")
